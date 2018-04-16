@@ -15,7 +15,7 @@ event | Event to debug
 ## Examples
 * List all the events that could be debugged
 ```
-drupal debug:evet
+drupal debug:event
 ```
 * Show the information for the kernel.request event
 ```
